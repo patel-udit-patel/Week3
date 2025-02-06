@@ -1,0 +1,2 @@
+This is an example. txt file for program .
+This is a text file

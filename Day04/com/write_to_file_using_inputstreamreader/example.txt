@@ -1,0 +1,2 @@
+This is an exampple file to demostrate inputStreamReader
+My name is Udit 
