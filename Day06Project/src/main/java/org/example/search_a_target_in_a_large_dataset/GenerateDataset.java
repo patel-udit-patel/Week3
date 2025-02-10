@@ -6,7 +6,8 @@ public class GenerateDataset {
         Random rand = new Random();
         int[] dataset = new int[size];
         for (int i = 0; i < size; i++) {
-            dataset[i] = rand.nextInt(size * 10); // Random values within range
+            // Random values within range
+            dataset[i] = rand.nextInt(size * 10);
         }
         return dataset;
     }
